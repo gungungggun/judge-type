@@ -21,7 +21,7 @@ module.exports = {
             loader: 'coffee-loader',
             options: {
               transpile: {
-                presets: ['es2015']
+                presets: ['env']
               }
             }
           }
