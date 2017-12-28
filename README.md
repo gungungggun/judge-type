@@ -1,4 +1,7 @@
 # Judge Type
+
+[![Build Status](https://travis-ci.org/gungungggun/judge-type.svg?branch=master)](https://travis-ci.org/gungungggun/judge-type)
+
 Check datatype.
 
 ## Install
